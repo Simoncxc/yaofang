@@ -2,5 +2,5 @@
 a vue element-ui project
 
 #npm install
-cd server node index.js
-npm run dev
+#cd server node index.js
+#npm run dev
