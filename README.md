@@ -1,3 +1,6 @@
 # yaofang
 a vue element-ui project
-#start the project npm run dev
+
+#npm install
+cd server node index.js
+npm run dev
